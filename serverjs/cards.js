@@ -10,6 +10,7 @@ let data = {
   full_names: [],
   nameToId: {},
   oracleToId: {},
+  mtgoToId: {},
   english: {},
   _carddict: {},
 };
@@ -20,6 +21,7 @@ const fileToAttribute = {
   'names.json': 'cardnames',
   'nameToId.json': 'nameToId',
   'oracleToId.json': 'oracleToId',
+  'mtgoToId.json': 'mtgoToId',
   'full_names.json': 'full_names',
   'imagedict.json': 'imagedict',
   'cardimages.json': 'cardimages',
@@ -198,6 +200,10 @@ function getVersionsByOracleId(oracleId) {
   return data.oracleToId[oracleId];
 }
 
+function getVersionsByMtgoId(mtgoId) {
+  return data.mtgoToId[mtgoId];
+}
+
 data = {
   ...data,
   cardFromId,
@@ -205,9 +211,11 @@ data = {
   getIdsFromName,
   getEnglishVersion,
   getVersionsByOracleId,
+  getVersionsByMtgoId,
   allVersions: (card) => getIdsFromName(card.name),
   allCards: () => Object.values(data._carddict),
   allOracleIds: () => Object.keys(data.oracleToId),
+  allMtgoIds: () => Object.keys(data.mtgoToId),
   initializeCardDb,
   loadJSONFile,
   getPlaceholderCard,

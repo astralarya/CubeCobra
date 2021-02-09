@@ -10,9 +10,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.08,
-      "usd_foil": 0.29,
-      "eur": 0.13,
+      "usd": 0.06,
+      "usd_foil": 0.26,
+      "eur": 0.19,
       "tix": 0.03
     },
     "elo": 1200,
@@ -74,9 +74,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.15,
-      "usd_foil": 0.18,
-      "eur": 0.03,
+      "usd": 0.16,
+      "usd_foil": 0.2,
+      "eur": 0.1,
       "tix": 0.03
     },
     "elo": 1200,
@@ -138,9 +138,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.3,
-      "usd_foil": 0.34,
-      "eur": 0.13,
+      "usd": 0.37,
+      "usd_foil": 0.4,
+      "eur": 0.2,
       "tix": 0.03
     },
     "elo": 1200,
@@ -198,9 +198,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.06,
-      "usd_foil": 0.13,
-      "eur": 0.02,
+      "usd": 0.04,
+      "usd_foil": 0.14,
+      "eur": 0.07,
       "tix": 0.03
     },
     "elo": 1200,
@@ -259,8 +259,8 @@
     "promo": false,
     "prices": {
       "usd": 0.16,
-      "usd_foil": 0.22,
-      "eur": 0.14,
+      "usd_foil": 0.23,
+      "eur": 0.09,
       "tix": 0.03
     },
     "elo": 1200,
@@ -318,10 +318,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.23,
-      "usd_foil": 0.38,
-      "eur": 0.04,
-      "tix": 0.02
+      "usd": 0.29,
+      "usd_foil": 0.35,
+      "eur": 0.28,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -381,10 +381,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 6.41,
-      "usd_foil": 7.2,
-      "eur": 4.57,
-      "tix": 2.9
+      "usd": 7.32,
+      "usd_foil": 7.76,
+      "eur": 5.16,
+      "tix": 1.98
     },
     "elo": 1200,
     "embedding": [],
@@ -438,10 +438,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.57,
-      "usd_foil": 2.19,
-      "eur": 0.63,
-      "tix": 0.47
+      "usd": 0.73,
+      "usd_foil": 2.08,
+      "eur": 0.58,
+      "tix": 0.46
     },
     "elo": 1200,
     "embedding": [],
@@ -495,10 +495,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 2.57,
-      "usd_foil": 4.84,
-      "eur": 1.75,
-      "tix": 2.07
+      "usd": 2.83,
+      "usd_foil": 4.63,
+      "eur": 1.92,
+      "tix": 1.51
     },
     "elo": 1200,
     "embedding": [],
@@ -552,10 +552,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 3.03,
-      "usd_foil": 4.15,
-      "eur": 4.25,
-      "tix": 0.65
+      "usd": 4.15,
+      "usd_foil": 4.34,
+      "eur": 2.85,
+      "tix": 0.82
     },
     "elo": 1200,
     "embedding": [],
@@ -609,10 +609,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.31,
-      "usd_foil": 1.18,
-      "eur": 0.38,
-      "tix": 0.31
+      "usd": 0.33,
+      "usd_foil": 1.16,
+      "eur": 0.51,
+      "tix": 0.13
     },
     "elo": 1200,
     "embedding": [],
@@ -666,10 +666,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.78,
-      "usd_foil": 2.12,
-      "eur": 2.42,
-      "tix": 0.31
+      "usd": 2.36,
+      "usd_foil": 2.17,
+      "eur": 2.29,
+      "tix": 0.33
     },
     "elo": 1200,
     "embedding": [],
@@ -724,10 +724,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 4.05,
-      "usd_foil": 4.77,
-      "eur": 5.53,
-      "tix": 3.43
+      "usd": 3.84,
+      "usd_foil": 4.34,
+      "eur": 4.24,
+      "tix": 2.35
     },
     "elo": 1200,
     "embedding": [],
@@ -781,9 +781,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.22,
-      "usd_foil": 0.4,
-      "eur": 0.18,
+      "usd": 0.23,
+      "usd_foil": 0.37,
+      "eur": 0.29,
       "tix": 0.03
     },
     "elo": 1200,
@@ -839,10 +839,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.45,
-      "usd_foil": 0.61,
-      "eur": 0.22,
-      "tix": 0.03
+      "usd": 0.53,
+      "usd_foil": 0.59,
+      "eur": 0.34,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -903,10 +903,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 2.11,
-      "usd_foil": 2.86,
-      "eur": 0.63,
-      "tix": 0.31
+      "usd": 1.89,
+      "usd_foil": 2.48,
+      "eur": 0.88,
+      "tix": 0.12
     },
     "elo": 1200,
     "embedding": [],
@@ -972,10 +972,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.2,
-      "usd_foil": 0.3,
-      "eur": 0.15,
-      "tix": 0.03
+      "usd": 0.19,
+      "usd_foil": 0.26,
+      "eur": 0.22,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -1037,9 +1037,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 2.41,
-      "usd_foil": 2.71,
-      "eur": 1.25,
+      "usd": 2.33,
+      "usd_foil": 2.88,
+      "eur": 1.13,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1102,9 +1102,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.44,
-      "usd_foil": 0.74,
-      "eur": 0.2,
+      "usd": 0.49,
+      "usd_foil": 0.63,
+      "eur": 0.31,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1166,9 +1166,9 @@
     "promo": false,
     "prices": {
       "usd": 0.42,
-      "usd_foil": 0.46,
-      "eur": 0.25,
-      "tix": 0.07
+      "usd_foil": 0.54,
+      "eur": 0.4,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -1231,10 +1231,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.45,
-      "usd_foil": 0.66,
-      "eur": 0.1,
-      "tix": 0.15
+      "usd": 0.48,
+      "usd_foil": 0.61,
+      "eur": 0.3,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -1293,10 +1293,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.47,
-      "usd_foil": 0.63,
-      "eur": 0.26,
-      "tix": 0.03
+      "usd": 0.66,
+      "usd_foil": 0.6,
+      "eur": 0.41,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -1356,9 +1356,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.13,
-      "usd_foil": 0.32,
-      "eur": 0.12,
+      "usd": 0.23,
+      "usd_foil": 0.31,
+      "eur": 0.26,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1418,9 +1418,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.23,
-      "usd_foil": 0.32,
-      "eur": 0.2,
+      "usd": 0.25,
+      "usd_foil": 0.3,
+      "eur": 0.33,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1481,10 +1481,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.41,
-      "usd_foil": 2.32,
-      "eur": 0.75,
-      "tix": 0.27
+      "usd": 2.68,
+      "usd_foil": 2.51,
+      "eur": 0.57,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -1541,10 +1541,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 10.41,
-      "usd_foil": 13.75,
-      "eur": 13.94,
-      "tix": 7.41
+      "usd": 12.66,
+      "usd_foil": 13.42,
+      "eur": 13.37,
+      "tix": 2.97
     },
     "elo": 1200,
     "embedding": [],
@@ -1604,10 +1604,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.14,
-      "usd_foil": 2.19,
-      "eur": 1.98,
-      "tix": 1.27
+      "usd": 1.28,
+      "usd_foil": 1.94,
+      "eur": 1.95,
+      "tix": 0.49
     },
     "elo": 1200,
     "embedding": [],
@@ -1649,9 +1649,9 @@
     "mtgo_id": 78478,
     "layout": "normal",
     "tcgplayer_id": 198710,
-    "image_small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
-    "image_normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
-    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
+    "image_small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
+    "image_normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
     "colorcategory": "g"
   },
   {
@@ -1664,10 +1664,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 34,
-      "usd_foil": 35.14,
-      "eur": 24.42,
-      "tix": 7.48
+      "usd": 44.28,
+      "usd_foil": 55.97,
+      "eur": 29.75,
+      "tix": 4.52
     },
     "elo": 1200,
     "embedding": [],
@@ -1725,10 +1725,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.89,
-      "usd_foil": 2.03,
-      "eur": 1.74,
-      "tix": 0.47
+      "usd": 1.7,
+      "usd_foil": 2.11,
+      "eur": 2.49,
+      "tix": 0.21
     },
     "elo": 1200,
     "embedding": [],
@@ -1789,9 +1789,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.23,
-      "usd_foil": 0.3,
-      "eur": 0.18,
+      "usd": 0.22,
+      "usd_foil": 0.31,
+      "eur": 0.21,
       "tix": 0.02
     },
     "elo": 1200,
@@ -1857,10 +1857,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.68,
-      "usd_foil": 2.1,
-      "eur": 0.43,
-      "tix": 0.48
+      "usd": 1.17,
+      "usd_foil": 2.36,
+      "eur": 0.4,
+      "tix": 0.35
     },
     "elo": 1200,
     "embedding": [],
@@ -1921,10 +1921,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.13,
-      "usd_foil": 0.21,
-      "eur": 0.04,
-      "tix": 0.01
+      "usd": 0.12,
+      "usd_foil": 0.23,
+      "eur": 0.12,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -1981,10 +1981,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 3.47,
-      "usd_foil": 5.4,
-      "eur": 8.95,
-      "tix": 1.67
+      "usd": 3.81,
+      "usd_foil": 5.54,
+      "eur": 5.37,
+      "tix": 0.43
     },
     "elo": 1200,
     "embedding": [],
@@ -2043,7 +2043,7 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.2,
+      "usd": 0.26,
       "usd_foil": 0.27,
       "eur": 0.07,
       "tix": 0.02
@@ -2106,9 +2106,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.42,
-      "usd_foil": 0.39,
-      "eur": 0.2,
+      "usd": 0.38,
+      "usd_foil": 0.43,
+      "eur": 0.36,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2168,10 +2168,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.46,
-      "usd_foil": 0.65,
-      "eur": 0.08,
-      "tix": 0.07
+      "usd": 0.43,
+      "usd_foil": 0.59,
+      "eur": 0.24,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -2230,10 +2230,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.29,
-      "usd_foil": 0.46,
-      "eur": 0.22,
-      "tix": 0.03
+      "usd": 0.23,
+      "usd_foil": 0.49,
+      "eur": 0.15,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -2275,9 +2275,9 @@
     "mtgo_id": 78376,
     "layout": "normal",
     "tcgplayer_id": 199255,
-    "image_small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
-    "image_normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
-    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
+    "image_small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
+    "image_normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
     "colorcategory": "r"
   },
   {
@@ -2290,10 +2290,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.23,
-      "usd_foil": 0.74,
-      "eur": 0.3,
-      "tix": 0.17
+      "usd": 0.24,
+      "usd_foil": 0.65,
+      "eur": 0.27,
+      "tix": 0.12
     },
     "elo": 1200,
     "embedding": [],
@@ -2351,10 +2351,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 11.13,
-      "usd_foil": 12.95,
-      "eur": 7.93,
-      "tix": 3.18
+      "usd": 10.87,
+      "usd_foil": 13.86,
+      "eur": 7.95,
+      "tix": 3.04
     },
     "elo": 1200,
     "embedding": [],
@@ -2412,9 +2412,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.17,
-      "usd_foil": 0.28,
-      "eur": 0.07,
+      "usd": 0.19,
+      "usd_foil": 0.3,
+      "eur": 0.18,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2473,10 +2473,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.89,
-      "usd_foil": 2.11,
-      "eur": 0.43,
-      "tix": 0.43
+      "usd": 1.12,
+      "usd_foil": 2.25,
+      "eur": 0.33,
+      "tix": 0.13
     },
     "elo": 1200,
     "embedding": [],
@@ -2533,10 +2533,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 10.3,
-      "usd_foil": 13.92,
-      "eur": 9.45,
-      "tix": 2.74
+      "usd": 12.19,
+      "usd_foil": 13.05,
+      "eur": 9.12,
+      "tix": 2.48
     },
     "elo": 1200,
     "embedding": [],
@@ -2597,9 +2597,9 @@
     "promo": false,
     "prices": {
       "usd": 0.21,
-      "usd_foil": 0.31,
-      "eur": 0.13,
-      "tix": 0.01
+      "usd_foil": 0.27,
+      "eur": 0.16,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -2659,9 +2659,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.36,
-      "usd_foil": 0.47,
-      "eur": 0.14,
+      "usd": 0.46,
+      "usd_foil": 0.46,
+      "eur": 0.22,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2725,9 +2725,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.83,
-      "usd_foil": 1.28,
-      "eur": 0.25,
+      "usd": 0.79,
+      "usd_foil": 1.24,
+      "eur": 0.85,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2786,9 +2786,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.12,
-      "usd_foil": 0.32,
-      "eur": 0.19,
+      "usd": 0.16,
+      "usd_foil": 0.3,
+      "eur": 0.11,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2848,10 +2848,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.86,
-      "usd_foil": 2.49,
-      "eur": 1.14,
-      "tix": 0.07
+      "usd": 2.27,
+      "usd_foil": 2.24,
+      "eur": 1.72,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -2911,9 +2911,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.41,
-      "usd_foil": 0.7,
-      "eur": 0.11,
+      "usd": 0.45,
+      "usd_foil": 0.67,
+      "eur": 0.16,
       "tix": 0.02
     },
     "elo": 1200,
@@ -2973,10 +2973,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.33,
+      "usd": 0.21,
       "usd_foil": 0.34,
-      "eur": 0.13,
-      "tix": 0.03
+      "eur": 0.18,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -3037,10 +3037,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.96,
-      "usd_foil": 2.09,
-      "eur": 0.43,
-      "tix": 0.02
+      "usd": 2.22,
+      "usd_foil": 2.42,
+      "eur": 0.44,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -3098,9 +3098,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.48,
-      "usd_foil": 0.97,
-      "eur": 0.24,
+      "usd": 0.58,
+      "usd_foil": 1.04,
+      "eur": 0.21,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3158,10 +3158,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 2.69,
-      "usd_foil": 3.22,
-      "eur": 1.41,
-      "tix": 0.13
+      "usd": 2.59,
+      "usd_foil": 3.17,
+      "eur": 1.15,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -3220,9 +3220,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.8,
-      "usd_foil": 0.94,
-      "eur": 0.72,
+      "usd": 0.67,
+      "usd_foil": 0.99,
+      "eur": 0.58,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3284,9 +3284,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.5,
-      "usd_foil": 0.61,
-      "eur": 0.02,
+      "usd": 0.48,
+      "usd_foil": 0.66,
+      "eur": 0.18,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3344,10 +3344,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.6,
-      "usd_foil": 3.07,
-      "eur": 1.42,
-      "tix": 1.07
+      "usd": 1.7,
+      "usd_foil": 2.78,
+      "eur": 1.12,
+      "tix": 0.75
     },
     "elo": 1200,
     "embedding": [],
@@ -3407,8 +3407,8 @@
     "promo": false,
     "prices": {
       "usd": 0.43,
-      "usd_foil": 0.5,
-      "eur": 0.3,
+      "usd_foil": 0.4,
+      "eur": 0.14,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3471,9 +3471,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.41,
-      "usd_foil": 0.57,
-      "eur": 0.22,
+      "usd": 0.4,
+      "usd_foil": 0.5,
+      "eur": 0.37,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3534,10 +3534,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.19,
-      "usd_foil": 1.48,
-      "eur": 0.81,
-      "tix": 0.85
+      "usd": 1.26,
+      "usd_foil": 1.51,
+      "eur": 0.56,
+      "tix": 0.27
     },
     "elo": 1200,
     "embedding": [],
@@ -3596,9 +3596,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.51,
-      "usd_foil": 0.78,
-      "eur": 0.33,
+      "usd": 0.59,
+      "usd_foil": 0.76,
+      "eur": 0.37,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3663,8 +3663,8 @@
     "promo": false,
     "prices": {
       "usd": 0.16,
-      "usd_foil": 0.25,
-      "eur": 0.04,
+      "usd_foil": 0.21,
+      "eur": 0.07,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3722,9 +3722,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.03,
-      "usd_foil": 1.41,
-      "eur": 1,
+      "usd": 1.14,
+      "usd_foil": 1.47,
+      "eur": 0.55,
       "tix": 0.02
     },
     "elo": 1200,
@@ -3786,10 +3786,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.74,
-      "usd_foil": 1.85,
-      "eur": 1.25,
-      "tix": 0.73
+      "usd": 1.66,
+      "usd_foil": 1.68,
+      "eur": 1.14,
+      "tix": 0.66
     },
     "elo": 1200,
     "embedding": [],
@@ -3849,9 +3849,9 @@
     "promo": false,
     "prices": {
       "usd": 0.28,
-      "usd_foil": 0.3,
-      "eur": 0.2,
-      "tix": 0.04
+      "usd_foil": 0.36,
+      "eur": 0.11,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -3912,7 +3912,7 @@
     "promo": false,
     "prices": {
       "usd": 0.06,
-      "usd_foil": 0.13,
+      "usd_foil": 0.12,
       "eur": 0.02,
       "tix": 0.03
     },
@@ -3984,10 +3984,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.03,
+      "usd": 0.02,
       "usd_foil": 0.06,
-      "eur": 0.02,
-      "tix": 0.02
+      "eur": 0.06,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -4049,10 +4049,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.03,
+      "usd": 0.02,
       "usd_foil": 0.12,
-      "eur": 0.04,
-      "tix": 0.02
+      "eur": 0.07,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -4113,10 +4113,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.16,
-      "usd_foil": 0.48,
-      "eur": 0.16,
-      "tix": 0.2
+      "usd": 0.22,
+      "usd_foil": 0.52,
+      "eur": 0.21,
+      "tix": 0.12
     },
     "elo": 1200,
     "embedding": [],
@@ -4181,9 +4181,9 @@
     "promo": false,
     "prices": {
       "usd": 0.01,
-      "usd_foil": 0.06,
-      "eur": 0.01,
-      "tix": 0.02
+      "usd_foil": 0.12,
+      "eur": 0.02,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -4245,10 +4245,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.07,
-      "usd_foil": 0.17,
-      "eur": 0.05,
-      "tix": 0.02
+      "usd": 0.08,
+      "usd_foil": 0.15,
+      "eur": 0.07,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -4314,8 +4314,8 @@
     "promo": false,
     "prices": {
       "usd": 0.04,
-      "usd_foil": 0.09,
-      "eur": 0.01,
+      "usd_foil": 0.07,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4380,9 +4380,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.12,
+      "usd": 0.13,
       "usd_foil": 0.32,
-      "eur": 0.09,
+      "eur": 0.07,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4445,9 +4445,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.04,
-      "usd_foil": 0.2,
-      "eur": 0.04,
+      "usd": 0.05,
+      "usd_foil": 0.18,
+      "eur": 0.13,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4509,9 +4509,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.07,
-      "usd_foil": 0.22,
-      "eur": 0.34,
+      "usd": 0.09,
+      "usd_foil": 0.21,
+      "eur": 0.15,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4573,9 +4573,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.1,
+      "usd": 0.08,
       "usd_foil": 0.21,
-      "eur": 0.07,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4637,10 +4637,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.86,
-      "usd_foil": 1.16,
-      "eur": 0.74,
-      "tix": 5.7
+      "usd": 0.98,
+      "usd_foil": 1.38,
+      "eur": 0.84,
+      "tix": 4.98
     },
     "elo": 1200,
     "embedding": [],
@@ -4702,9 +4702,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.04,
-      "usd_foil": 0.16,
-      "eur": 0.1,
+      "usd": 0.02,
+      "usd_foil": 0.14,
+      "eur": 0.02,
       "tix": 0.03
     },
     "elo": 1200,
@@ -4766,10 +4766,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.05,
-      "usd_foil": 0.11,
-      "eur": 0.05,
-      "tix": 0.02
+      "usd": 0.04,
+      "usd_foil": 0.1,
+      "eur": 0.02,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -4832,7 +4832,7 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.05,
+      "usd": 0.06,
       "usd_foil": 0.23,
       "eur": 0.12,
       "tix": 0.03
@@ -4897,10 +4897,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 1.31,
-      "usd_foil": 1.6,
-      "eur": 1.77,
-      "tix": 2.12
+      "usd": 1.12,
+      "usd_foil": 1.65,
+      "eur": 1.19,
+      "tix": 0.91
     },
     "elo": 1200,
     "embedding": [],
@@ -4966,8 +4966,8 @@
     "prices": {
       "usd": 0.1,
       "usd_foil": 0.27,
-      "eur": 0.11,
-      "tix": 0.03
+      "eur": 0.17,
+      "tix": 0.04
     },
     "elo": 1200,
     "embedding": [],
@@ -5028,10 +5028,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.04,
+      "usd": 0.02,
       "usd_foil": 0.11,
-      "eur": 0.02,
-      "tix": 0.02
+      "eur": 0.01,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -5093,9 +5093,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.12,
-      "usd_foil": 0.22,
-      "eur": 0.02,
+      "usd": 0.11,
+      "usd_foil": 0.21,
+      "eur": 0.08,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5157,9 +5157,9 @@
     "promo": false,
     "prices": {
       "usd": 0.11,
-      "usd_foil": 0.15,
-      "eur": 0.02,
-      "tix": 0.02
+      "usd_foil": 0.14,
+      "eur": 0.1,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -5221,10 +5221,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.13,
-      "usd_foil": 0.56,
-      "eur": 0.17,
-      "tix": 0.06
+      "usd": 0.18,
+      "usd_foil": 0.54,
+      "eur": 0.2,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -5286,10 +5286,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 11,
-      "usd_foil": 18.09,
-      "eur": 13.27,
-      "tix": 12.29
+      "usd": 9.31,
+      "usd_foil": 13.78,
+      "eur": 10.69,
+      "tix": 15.98
     },
     "elo": 1200,
     "embedding": [],
@@ -5352,10 +5352,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.07,
+      "usd": 0.05,
       "usd_foil": 0.15,
-      "eur": 0.06,
-      "tix": 0.02
+      "eur": 0.03,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -5418,9 +5418,9 @@
     "promo": false,
     "prices": {
       "usd": 0.02,
-      "usd_foil": 0.04,
-      "eur": 0.1,
-      "tix": 0.02
+      "usd_foil": 0.03,
+      "eur": 0.24,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -5482,9 +5482,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.06,
+      "usd": 0.08,
       "usd_foil": 0.15,
-      "eur": 0.02,
+      "eur": 0.12,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5546,10 +5546,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.7,
-      "usd_foil": 0.9,
-      "eur": 0.75,
-      "tix": 0.06
+      "usd": 1.02,
+      "usd_foil": 0.97,
+      "eur": 1.08,
+      "tix": 0.1
     },
     "elo": 1200,
     "embedding": [],
@@ -5613,10 +5613,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.04,
-      "usd_foil": 0.14,
-      "eur": 0.02,
-      "tix": 0.02
+      "usd": 0.05,
+      "usd_foil": 0.13,
+      "eur": 0.24,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -5681,10 +5681,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.23,
-      "usd_foil": 0.31,
-      "eur": 0.23,
-      "tix": 0.03
+      "usd": 0.25,
+      "usd_foil": 0.3,
+      "eur": 0.25,
+      "tix": 0.02
     },
     "elo": 1200,
     "embedding": [],
@@ -5745,10 +5745,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.05,
-      "usd_foil": 0.15,
-      "eur": 0.1,
-      "tix": 0.02
+      "usd": 0.04,
+      "usd_foil": 0.12,
+      "eur": 0.2,
+      "tix": 0.03
     },
     "elo": 1200,
     "embedding": [],
@@ -5810,8 +5810,8 @@
     "promo": false,
     "prices": {
       "usd": 0.04,
-      "usd_foil": 0.18,
-      "eur": 0.02,
+      "usd_foil": 0.14,
+      "eur": 0.14,
       "tix": 0.03
     },
     "elo": 1200,
@@ -5876,10 +5876,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 3.13,
-      "usd_foil": 4.2,
-      "eur": 4.16,
-      "tix": 0.78
+      "usd": 2.89,
+      "usd_foil": 3.93,
+      "eur": 3.5,
+      "tix": 0.83
     },
     "elo": 1200,
     "embedding": [],
@@ -5940,10 +5940,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 16.04,
-      "usd_foil": 26.77,
-      "eur": 19.17,
-      "tix": 23.94
+      "usd": 21.34,
+      "usd_foil": 29.15,
+      "eur": 21.35,
+      "tix": 18.98
     },
     "elo": 1200,
     "embedding": [],
@@ -5988,9 +5988,9 @@
     "layout": "normal",
     "tcgplayer_id": 198356,
     "loyalty": "4",
-    "image_small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
-    "image_normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
-    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
+    "image_small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
+    "image_normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
     "colorcategory": "m",
     "tokens": [
       "bf36408d-ed85-497f-8e68-d3a922c388a0"
@@ -6007,10 +6007,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 2.54,
-      "usd_foil": 3.27,
-      "eur": 1.5,
-      "tix": 0.31
+      "usd": 2.77,
+      "usd_foil": 2.75,
+      "eur": 2.83,
+      "tix": 0.12
     },
     "elo": 1200,
     "embedding": [],
@@ -6072,9 +6072,9 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.58,
+      "usd": 0.5,
       "usd_foil": null,
-      "eur": 0.24,
+      "eur": 0.5,
       "tix": null
     },
     "elo": 1200,
@@ -6127,10 +6127,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 0.93,
+      "usd": 1.29,
       "usd_foil": null,
-      "eur": 0.99,
-      "tix": 2.26
+      "eur": 1.56,
+      "tix": 2.97
     },
     "elo": 1200,
     "embedding": [],
@@ -6182,10 +6182,10 @@
     "released_at": "2019-10-04",
     "promo": false,
     "prices": {
-      "usd": 2.63,
+      "usd": 2.66,
       "usd_foil": null,
-      "eur": 1.82,
-      "tix": 3.4
+      "eur": 1.95,
+      "tix": 1.47
     },
     "elo": 1200,
     "embedding": [],
@@ -6237,9 +6237,9 @@
     "released_at": "2017-09-29",
     "promo": false,
     "prices": {
-      "usd": 0.27,
-      "usd_foil": 1.56,
-      "eur": 0.35,
+      "usd": 0.26,
+      "usd_foil": 1.28,
+      "eur": 0.5,
       "tix": 0.02
     },
     "elo": 1200,

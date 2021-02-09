@@ -44,6 +44,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -53,7 +54,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -91,17 +93,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4190,
+    "edhrec_rank": 4250,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169291126970314752",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.08",
-      "usd_foil": "0.29",
-      "eur": "0.13",
-      "eur_foil": "0.10",
+      "usd": "0.06",
+      "usd_foil": "0.26",
+      "eur": "0.19",
+      "eur_foil": "0.30",
       "tix": "0.03"
     },
     "related_uris": {
@@ -172,6 +174,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -181,7 +184,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -219,17 +223,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4480,
+    "edhrec_rank": 4454,
     "preview": {
       "source": "William Jensen",
       "source_uri": "https://twitter.com/HueyJensen/status/1174420655242010624",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.15",
-      "usd_foil": "0.18",
-      "eur": "0.03",
-      "eur_foil": "0.20",
+      "usd": "0.16",
+      "usd_foil": "0.20",
+      "eur": "0.10",
+      "eur_foil": "0.49",
       "tix": "0.03"
     },
     "related_uris": {
@@ -282,6 +286,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -291,7 +296,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -328,11 +334,11 @@
     "textless": false,
     "booster": true,
     "story_spotlight": true,
-    "edhrec_rank": 950,
+    "edhrec_rank": 902,
     "prices": {
-      "usd": "0.30",
-      "usd_foil": "0.34",
-      "eur": "0.13",
+      "usd": "0.37",
+      "usd_foil": "0.40",
+      "eur": "0.20",
       "eur_foil": "0.15",
       "tix": "0.03"
     },
@@ -386,6 +392,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -395,7 +402,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -433,17 +441,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 10080,
+    "edhrec_rank": 10018,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.06",
-      "usd_foil": "0.13",
-      "eur": "0.02",
-      "eur_foil": "0.45",
+      "usd": "0.04",
+      "usd_foil": "0.14",
+      "eur": "0.07",
+      "eur_foil": "0.25",
       "tix": "0.03"
     },
     "related_uris": {
@@ -494,6 +502,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -503,7 +512,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -541,7 +551,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 10111,
+    "edhrec_rank": 10124,
     "preview": {
       "source": "Mark Rosewater",
       "source_uri": "https://mobile.twitter.com/maro254/status/1172198040263741441",
@@ -549,9 +559,9 @@
     },
     "prices": {
       "usd": "0.16",
-      "usd_foil": "0.22",
-      "eur": "0.14",
-      "eur_foil": "0.20",
+      "usd_foil": "0.23",
+      "eur": "0.09",
+      "eur_foil": "0.22",
       "tix": "0.03"
     },
     "related_uris": {
@@ -622,6 +632,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -631,7 +642,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -669,18 +681,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3269,
+    "edhrec_rank": 3267,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/wizards_magic/status/1169279011639443457",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.23",
-      "usd_foil": "0.38",
-      "eur": "0.04",
-      "eur_foil": "0.35",
-      "tix": "0.02"
+      "usd": "0.29",
+      "usd_foil": "0.35",
+      "eur": "0.28",
+      "eur_foil": "0.30",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473062",
@@ -726,6 +738,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -735,7 +748,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -773,18 +787,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 104,
+    "edhrec_rank": 95,
     "preview": {
       "source": "Face to Face Games",
       "source_uri": "http://magic.facetofacegames.com/exclusive-throne-of-eldraine-spoiler-fabled-passage/",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "6.41",
-      "usd_foil": "7.20",
-      "eur": "4.57",
-      "eur_foil": "6.00",
-      "tix": "2.90"
+      "usd": "7.32",
+      "usd_foil": "7.76",
+      "eur": "5.16",
+      "eur_foil": "7.80",
+      "tix": "1.98"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206",
@@ -837,6 +851,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -846,7 +861,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -884,18 +900,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 471,
+    "edhrec_rank": 443,
     "preview": {
       "source": "Amanda Yeo",
       "source_uri": "https://twitter.com/amandamyeo/status/1173867462036611072",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "0.57",
-      "usd_foil": "2.19",
-      "eur": "0.63",
-      "eur_foil": "2.50",
-      "tix": "0.47"
+      "usd": "0.73",
+      "usd_foil": "2.08",
+      "eur": "0.58",
+      "eur_foil": "3.75",
+      "tix": "0.46"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204",
@@ -946,6 +962,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -955,7 +972,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -993,18 +1011,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 511,
+    "edhrec_rank": 467,
     "preview": {
       "source": "Stopgame",
       "source_uri": "https://youtu.be/ymiqozyqUuE",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "2.57",
-      "usd_foil": "4.84",
-      "eur": "1.75",
-      "eur_foil": "3.99",
-      "tix": "2.07"
+      "usd": "2.83",
+      "usd_foil": "4.63",
+      "eur": "1.92",
+      "eur_foil": "5.25",
+      "tix": "1.51"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203",
@@ -1055,6 +1073,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1064,7 +1083,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1102,18 +1122,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 637,
+    "edhrec_rank": 598,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/colors-costs-tempo-building-better-castle-2019-09-17",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "3.03",
-      "usd_foil": "4.15",
-      "eur": "4.25",
-      "eur_foil": "3.99",
-      "tix": "0.65"
+      "usd": "4.15",
+      "usd_foil": "4.34",
+      "eur": "2.85",
+      "eur_foil": "3.00",
+      "tix": "0.82"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473202",
@@ -1164,6 +1184,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1173,7 +1194,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1211,18 +1233,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1048,
+    "edhrec_rank": 996,
     "preview": {
       "source": "Hareruya",
       "source_uri": "https://article.hareruyamtg.com/article/31458/?lang=en",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "0.31",
-      "usd_foil": "1.18",
-      "eur": "0.38",
-      "eur_foil": "1.70",
-      "tix": "0.31"
+      "usd": "0.33",
+      "usd_foil": "1.16",
+      "eur": "0.51",
+      "eur_foil": "1.00",
+      "tix": "0.13"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201",
@@ -1291,6 +1313,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1300,7 +1323,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1338,18 +1362,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 885,
+    "edhrec_rank": 855,
     "preview": {
       "source": "ESPN Brazil",
       "source_uri": "https://es.pn/2LDfNEd",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "1.78",
-      "usd_foil": "2.12",
-      "eur": "2.42",
-      "eur_foil": "2.40",
-      "tix": "0.31"
+      "usd": "2.36",
+      "usd_foil": "2.17",
+      "eur": "2.29",
+      "eur_foil": "2.25",
+      "tix": "0.33"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200",
@@ -1401,6 +1425,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1410,7 +1435,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1448,18 +1474,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1660,
+    "edhrec_rank": 1613,
     "preview": {
       "source": "Anoa",
       "source_uri": "http://mtg.anoad.com/?p=7533",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "4.05",
-      "usd_foil": "4.77",
-      "eur": "5.53",
-      "eur_foil": "5.49",
-      "tix": "3.43"
+      "usd": "3.84",
+      "usd_foil": "4.34",
+      "eur": "4.24",
+      "eur_foil": "5.99",
+      "tix": "2.35"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197",
@@ -1505,6 +1531,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1514,7 +1541,8 @@
       "commander": "legal",
       "brawl": "banned",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1551,17 +1579,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4791,
+    "edhrec_rank": 4901,
     "preview": {
       "source": "Geektenango",
       "source_uri": "https://www.facebook.com/geektenango/videos/2277811855673952",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.22",
-      "usd_foil": "0.40",
-      "eur": "0.18",
-      "eur_foil": "0.55",
+      "usd": "0.23",
+      "usd_foil": "0.37",
+      "eur": "0.29",
+      "eur_foil": "1.30",
       "tix": "0.03"
     },
     "related_uris": {
@@ -1618,6 +1646,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1627,7 +1656,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1665,18 +1695,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2906,
+    "edhrec_rank": 2849,
     "preview": {
       "source": "Bigweb",
       "source_uri": "https://mtg.bigweb.co.jp/article/preview/ELD",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.45",
-      "usd_foil": "0.61",
-      "eur": "0.22",
-      "eur_foil": "0.68",
-      "tix": "0.03"
+      "usd": "0.53",
+      "usd_foil": "0.59",
+      "eur": "0.34",
+      "eur_foil": "0.50",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473165",
@@ -1762,6 +1792,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1771,7 +1802,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1808,18 +1840,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3636,
+    "edhrec_rank": 3512,
     "preview": {
       "source": "Gaby Spartz",
       "source_uri": "https://www.youtube.com/watch?v=OCPU11hC2Dc",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "2.11",
-      "usd_foil": "2.86",
-      "eur": "0.63",
-      "eur_foil": "1.30",
-      "tix": "0.31"
+      "usd": "1.89",
+      "usd_foil": "2.48",
+      "eur": "0.88",
+      "eur_foil": "0.75",
+      "tix": "0.12"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473160",
@@ -1875,6 +1907,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -1884,7 +1917,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -1921,18 +1955,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7315,
+    "edhrec_rank": 7231,
     "preview": {
       "source": "Tasca Do Magique",
       "source_uri": "https://www.youtube.com/watch?v=rGagRu_HW2w",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.20",
-      "usd_foil": "0.30",
-      "eur": "0.15",
-      "eur_foil": "0.17",
-      "tix": "0.03"
+      "usd": "0.19",
+      "usd_foil": "0.26",
+      "eur": "0.22",
+      "eur_foil": "0.05",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473157",
@@ -1995,6 +2029,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2004,7 +2039,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2042,17 +2078,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 522,
+    "edhrec_rank": 505,
     "preview": {
       "source": "cafe.daum.net",
       "source_uri": "http://cafe.daum.net/magin/9Uu6/4718",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "2.41",
-      "usd_foil": "2.71",
-      "eur": "1.25",
-      "eur_foil": "0.02",
+      "usd": "2.33",
+      "usd_foil": "2.88",
+      "eur": "1.13",
+      "eur_foil": "1.00",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2103,8 +2139,9 @@
     "keywords": [],
     "legalities": {
       "standard": "banned",
-      "future": "legal",
+      "future": "banned",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2114,7 +2151,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2152,17 +2190,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2894,
+    "edhrec_rank": 2758,
     "preview": {
       "source": "Brainstorm Brewery",
       "source_uri": "https://www.youtube.com/watch?v=S44bJNc42GM",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "0.44",
-      "usd_foil": "0.74",
-      "eur": "0.20",
-      "eur_foil": "0.47",
+      "usd": "0.49",
+      "usd_foil": "0.63",
+      "eur": "0.31",
+      "eur_foil": "0.45",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2233,6 +2271,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2242,7 +2281,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2280,7 +2320,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5760,
+    "edhrec_rank": 5571,
     "preview": {
       "source": "Destructoid",
       "source_uri": "https://www.destructoid.com/check-out-magic-the-gathering-s-doom-foretold-our-exclusive-throne-of-eldraine-card-reveal-565657.phtml",
@@ -2288,10 +2328,10 @@
     },
     "prices": {
       "usd": "0.42",
-      "usd_foil": "0.46",
-      "eur": "0.25",
-      "eur_foil": "0.79",
-      "tix": "0.07"
+      "usd_foil": "0.54",
+      "eur": "0.40",
+      "eur_foil": "0.50",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473149",
@@ -2343,6 +2383,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2352,7 +2393,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2389,18 +2431,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1935,
+    "edhrec_rank": 1916,
     "preview": {
       "source": "Commanderin",
       "source_uri": "https://www.youtube.com/watch?v=oQaCw2LbsCg",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.45",
-      "usd_foil": "0.66",
-      "eur": "0.10",
-      "eur_foil": "0.90",
-      "tix": "0.15"
+      "usd": "0.48",
+      "usd_foil": "0.61",
+      "eur": "0.30",
+      "eur_foil": "0.39",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473148",
@@ -2452,6 +2494,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2461,7 +2504,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2501,18 +2545,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4426,
+    "edhrec_rank": 4378,
     "preview": {
       "source": "IGN España",
       "source_uri": "https://es.ign.com/magic-the-gathering/155533/news/magic-una-carta-una-carta-del-nuevo-set-el-trono-de-eldraine-en-exclusiva",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.47",
-      "usd_foil": "0.63",
-      "eur": "0.26",
-      "eur_foil": "0.71",
-      "tix": "0.03"
+      "usd": "0.66",
+      "usd_foil": "0.60",
+      "eur": "0.41",
+      "eur_foil": "0.50",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473147",
@@ -2567,6 +2611,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2576,7 +2621,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2613,17 +2659,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4782,
+    "edhrec_rank": 4755,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/wildborn-preserver-2019-09-10",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.13",
-      "usd_foil": "0.32",
-      "eur": "0.12",
-      "eur_foil": "0.57",
+      "usd": "0.23",
+      "usd_foil": "0.31",
+      "eur": "0.26",
+      "eur_foil": "0.28",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2678,6 +2724,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2687,7 +2734,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2724,17 +2772,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9474,
+    "edhrec_rank": 9486,
     "preview": {
       "source": "NOT A WOLF",
       "source_uri": "https://twitter.com/SICKOFWOLVES/status/1171097721458946049",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.23",
-      "usd_foil": "0.32",
-      "eur": "0.20",
-      "eur_foil": "0.86",
+      "usd": "0.25",
+      "usd_foil": "0.30",
+      "eur": "0.33",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -2785,6 +2833,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2794,7 +2843,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2832,18 +2882,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": true,
-    "edhrec_rank": 348,
+    "edhrec_rank": 306,
     "preview": {
       "source": "The Vorthos Cast",
       "source_uri": "https://twitter.com/TheVorthosCast/status/1174687113389989888",
       "previewed_at": "2019-09-19"
     },
     "prices": {
-      "usd": "1.41",
-      "usd_foil": "2.32",
-      "eur": "0.75",
-      "eur_foil": "1.49",
-      "tix": "0.27"
+      "usd": "2.68",
+      "usd_foil": "2.51",
+      "eur": "0.57",
+      "eur_foil": "1.50",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473134",
@@ -2899,6 +2949,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -2908,7 +2959,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -2948,18 +3000,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3020,
+    "edhrec_rank": 2874,
     "preview": {
       "source": "Day9TV",
       "source_uri": "https://twitter.com/day9tv/status/1171090892201086976?s=21",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "10.41",
-      "usd_foil": "13.75",
-      "eur": "13.94",
-      "eur_foil": "16.35",
-      "tix": "7.41"
+      "usd": "12.66",
+      "usd_foil": "13.42",
+      "eur": "13.37",
+      "eur_foil": "14.99",
+      "tix": "2.97"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133",
@@ -2987,12 +3039,12 @@
     "layout": "normal",
     "highres_image": true,
     "image_uris": {
-      "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
-      "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
-      "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
-      "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.png?1583750155",
-      "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155",
-      "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1583750155"
+      "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
+      "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
+      "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
+      "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.png?1610109734",
+      "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734",
+      "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/0/4034e5ba-9974-43e3-bde7-8d9b4586c3a4.jpg?1610109734"
     },
     "mana_cost": "{1}{G}",
     "cmc": 2,
@@ -3009,6 +3061,7 @@
       "standard": "banned",
       "future": "banned",
       "historic": "banned",
+      "gladiator": "legal",
       "pioneer": "banned",
       "modern": "banned",
       "legacy": "legal",
@@ -3018,7 +3071,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3055,18 +3109,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3696,
+    "edhrec_rank": 3693,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/eldraine-or-shine-2019-09-09",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "1.14",
-      "usd_foil": "2.19",
-      "eur": "1.98",
-      "eur_foil": "4.20",
-      "tix": "1.27"
+      "usd": "1.28",
+      "usd_foil": "1.94",
+      "eur": "1.95",
+      "eur_foil": "3.80",
+      "tix": "0.49"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131",
@@ -3119,6 +3173,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3128,7 +3183,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3168,18 +3224,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 400,
+    "edhrec_rank": 378,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/building-great-henge-2019-09-18",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "34.00",
-      "usd_foil": "35.14",
-      "eur": "24.42",
-      "eur_foil": "27.60",
-      "tix": "7.48"
+      "usd": "44.28",
+      "usd_foil": "55.97",
+      "eur": "29.75",
+      "eur_foil": "32.50",
+      "tix": "4.52"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123",
@@ -3258,6 +3314,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3267,7 +3324,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3304,18 +3362,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3203,
+    "edhrec_rank": 3126,
     "preview": {
       "source": "Kotaku",
       "source_uri": "https://www.kotaku.com.au/2019/09/magic-the-gathering-throne-of-eldraine-exclusive-reveal-gilded-goose-golden-egg/",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "1.89",
-      "usd_foil": "2.03",
-      "eur": "1.74",
-      "eur_foil": "2.90",
-      "tix": "0.47"
+      "usd": "1.70",
+      "usd_foil": "2.11",
+      "eur": "2.49",
+      "eur_foil": "2.40",
+      "tix": "0.21"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122",
@@ -3388,6 +3446,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3397,7 +3456,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3434,17 +3494,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7670,
+    "edhrec_rank": 7623,
     "preview": {
       "source": "Kanister",
       "source_uri": "https://www.twitch.tv/videos/479450583",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.23",
-      "usd_foil": "0.30",
-      "eur": "0.18",
-      "eur_foil": "0.20",
+      "usd": "0.22",
+      "usd_foil": "0.31",
+      "eur": "0.21",
+      "eur_foil": "0.40",
       "tix": "0.02"
     },
     "related_uris": {
@@ -3497,6 +3557,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3506,7 +3567,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3547,18 +3609,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 846,
+    "edhrec_rank": 814,
     "preview": {
       "source": "ZiggyD Gaming",
       "source_uri": "https://twitter.com/ZiggyDStarcraft/status/1173553765070209024",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.68",
-      "usd_foil": "2.10",
-      "eur": "0.43",
-      "eur_foil": "2.48",
-      "tix": "0.48"
+      "usd": "1.17",
+      "usd_foil": "2.36",
+      "eur": "0.40",
+      "eur_foil": "1.20",
+      "tix": "0.35"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473109",
@@ -3608,6 +3670,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3617,7 +3680,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3654,18 +3718,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7804,
+    "edhrec_rank": 7846,
     "preview": {
       "source": "John Rolf",
       "source_uri": "https://twitter.com/JRolfMTG/status/1172624112335958024?s=19",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.13",
-      "usd_foil": "0.21",
-      "eur": "0.04",
-      "eur_foil": "0.50",
-      "tix": "0.01"
+      "usd": "0.12",
+      "usd_foil": "0.23",
+      "eur": "0.12",
+      "eur_foil": "0.15",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473106",
@@ -3720,6 +3784,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3729,7 +3794,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3766,18 +3832,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5694,
+    "edhrec_rank": 5679,
     "preview": {
       "source": "J-E Depraz",
       "source_uri": "https://twitter.com/JEDepraz/status/1171392737356197893",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "3.47",
-      "usd_foil": "5.40",
-      "eur": "8.95",
-      "eur_foil": "7.73",
-      "tix": "1.67"
+      "usd": "3.81",
+      "usd_foil": "5.54",
+      "eur": "5.37",
+      "eur_foil": "4.25",
+      "tix": "0.43"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100",
@@ -3831,6 +3897,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3840,7 +3907,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3877,17 +3945,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 6426,
+    "edhrec_rank": 6302,
     "preview": {
       "source": "Sjow",
       "source_uri": "https://twitter.com/LiquidSjow/status/1171861699420413953",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.20",
+      "usd": "0.26",
       "usd_foil": "0.27",
       "eur": "0.07",
-      "eur_foil": "0.16",
+      "eur_foil": "0.42",
       "tix": "0.02"
     },
     "related_uris": {
@@ -3940,6 +4008,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -3949,7 +4018,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -3987,17 +4057,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4309,
+    "edhrec_rank": 4253,
     "preview": {
       "source": "CoolStuffInc",
       "source_uri": "https://www.coolstuffinc.com/a/aliaintrazi-09182019-watch-it-burn-preview-for-throne-of-eldraine",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.42",
-      "usd_foil": "0.39",
-      "eur": "0.20",
-      "eur_foil": "0.30",
+      "usd": "0.38",
+      "usd_foil": "0.43",
+      "eur": "0.36",
+      "eur_foil": "0.62",
       "tix": "0.02"
     },
     "related_uris": {
@@ -4051,6 +4121,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4060,7 +4131,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4098,18 +4170,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4781,
+    "edhrec_rank": 4728,
     "preview": {
       "source": "Matthew Nass",
       "source_uri": "https://twitter.com/MatthewLNass/status/1172527368600076289",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.46",
-      "usd_foil": "0.65",
-      "eur": "0.08",
-      "eur_foil": "0.35",
-      "tix": "0.07"
+      "usd": "0.43",
+      "usd_foil": "0.59",
+      "eur": "0.24",
+      "eur_foil": "0.34",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089",
@@ -4137,12 +4209,12 @@
     "layout": "normal",
     "highres_image": true,
     "image_uris": {
-      "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
-      "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
-      "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
-      "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.png?1591620860",
-      "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860",
-      "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1591620860"
+      "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
+      "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
+      "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
+      "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.png?1610109790",
+      "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790",
+      "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/1/a12b16b0-f75f-42d8-9b24-947c1908e0f7.jpg?1610109790"
     },
     "mana_cost": "{3}{R}",
     "cmc": 4,
@@ -4159,6 +4231,7 @@
       "standard": "banned",
       "future": "banned",
       "historic": "banned",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4168,7 +4241,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4206,18 +4280,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3831,
+    "edhrec_rank": 3747,
     "preview": {
       "source": "Vandal",
       "source_uri": "https://vandal.elespanol.com/noticia/1350726991/os-desvelamos-una-carta-exclusiva-para-la-nueva-ampliacion-de-magic-the-gathering/",
       "previewed_at": "2019-09-14"
     },
     "prices": {
-      "usd": "0.29",
-      "usd_foil": "0.46",
-      "eur": "0.22",
-      "eur_foil": "1.69",
-      "tix": "0.03"
+      "usd": "0.23",
+      "usd_foil": "0.49",
+      "eur": "0.15",
+      "eur_foil": "1.49",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473087",
@@ -4273,6 +4347,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4282,7 +4357,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4320,18 +4396,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3716,
+    "edhrec_rank": 3591,
     "preview": {
       "source": "Javier Domínguez",
       "source_uri": "https://twitter.com/JavierDmagic/status/1171904308041977862",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.23",
-      "usd_foil": "0.74",
-      "eur": "0.30",
-      "eur_foil": "0.70",
-      "tix": "0.17"
+      "usd": "0.24",
+      "usd_foil": "0.65",
+      "eur": "0.27",
+      "eur_foil": "1.00",
+      "tix": "0.12"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086",
@@ -4384,6 +4460,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4393,7 +4470,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4433,18 +4511,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1505,
+    "edhrec_rank": 1440,
     "preview": {
       "source": "Martin Jůza",
       "source_uri": "https://twitter.com/MartinJuza/status/1171095982068686848",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "11.13",
-      "usd_foil": "12.95",
-      "eur": "7.93",
-      "eur_foil": "13.00",
-      "tix": "3.18"
+      "usd": "10.87",
+      "usd_foil": "13.86",
+      "eur": "7.95",
+      "eur_foil": "15.00",
+      "tix": "3.04"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082",
@@ -4494,6 +4572,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4503,7 +4582,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4541,17 +4621,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9323,
+    "edhrec_rank": 9455,
     "preview": {
       "source": "The Masters of Modern",
       "source_uri": "https://twitter.com/theMMcast/status/1171115818630828033",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.17",
-      "usd_foil": "0.28",
-      "eur": "0.07",
-      "eur_foil": "0.17",
+      "usd": "0.19",
+      "usd_foil": "0.30",
+      "eur": "0.18",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -4602,6 +4682,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4611,7 +4692,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4648,18 +4730,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1033,
+    "edhrec_rank": 959,
     "preview": {
       "source": "Brian Kibler",
       "source_uri": "https://twitter.com/bmkibler/status/1171093966801866754",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.89",
-      "usd_foil": "2.11",
-      "eur": "0.43",
-      "eur_foil": "1.34",
-      "tix": "0.43"
+      "usd": "1.12",
+      "usd_foil": "2.25",
+      "eur": "0.33",
+      "eur_foil": "1.58",
+      "tix": "0.13"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072",
@@ -4714,6 +4796,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4723,7 +4806,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4763,18 +4847,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1951,
+    "edhrec_rank": 1860,
     "preview": {
       "source": "TCGplayer",
       "source_uri": "https://twitter.com/MTGatTCGplayer/status/1169119200381689856",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "10.30",
-      "usd_foil": "13.92",
-      "eur": "9.45",
-      "eur_foil": "9.49",
-      "tix": "2.74"
+      "usd": "12.19",
+      "usd_foil": "13.05",
+      "eur": "9.12",
+      "eur_foil": "10.49",
+      "tix": "2.48"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473063",
@@ -4826,6 +4910,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4835,7 +4920,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -4872,7 +4958,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8217,
+    "edhrec_rank": 8322,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://www.twitch.tv/videos/480556742",
@@ -4880,10 +4966,10 @@
     },
     "prices": {
       "usd": "0.21",
-      "usd_foil": "0.31",
-      "eur": "0.13",
-      "eur_foil": "0.59",
-      "tix": "0.01"
+      "usd_foil": "0.27",
+      "eur": "0.16",
+      "eur_foil": "0.49",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473060",
@@ -4956,6 +5042,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -4965,7 +5052,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5002,17 +5090,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3540,
+    "edhrec_rank": 3481,
     "preview": {
       "source": "Noxious",
       "source_uri": "https://www.youtube.com/watch?v=VYL28w0hmwg",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "0.36",
-      "usd_foil": "0.47",
-      "eur": "0.14",
-      "eur_foil": "0.60",
+      "usd": "0.46",
+      "usd_foil": "0.46",
+      "eur": "0.22",
+      "eur_foil": "0.20",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5063,6 +5151,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5072,7 +5161,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5112,17 +5202,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3980,
+    "edhrec_rank": 4007,
     "preview": {
       "source": "Brian Braun-Duin",
       "source_uri": "https://twitter.com/BraunDuinIt/status/1173693988697542657",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.83",
-      "usd_foil": "1.28",
-      "eur": "0.25",
-      "eur_foil": "1.00",
+      "usd": "0.79",
+      "usd_foil": "1.24",
+      "eur": "0.85",
+      "eur_foil": "0.66",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5177,6 +5267,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5186,7 +5277,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5224,17 +5316,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5728,
+    "edhrec_rank": 5714,
     "preview": {
       "source": "Malditos Nerds",
       "source_uri": "https://twitter.com/MalditosNerdsVX/status/1173676142269816833",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.12",
-      "usd_foil": "0.32",
-      "eur": "0.19",
-      "eur_foil": "0.24",
+      "usd": "0.16",
+      "usd_foil": "0.30",
+      "eur": "0.11",
+      "eur_foil": "0.29",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5287,6 +5379,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5296,7 +5389,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5337,18 +5431,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1136,
+    "edhrec_rank": 1105,
     "preview": {
       "source": "Good Luck High Five",
       "source_uri": "https://youtu.be/qhWhI57on0Q",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "1.86",
-      "usd_foil": "2.49",
-      "eur": "1.14",
+      "usd": "2.27",
+      "usd_foil": "2.24",
+      "eur": "1.72",
       "eur_foil": "2.00",
-      "tix": "0.07"
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473037",
@@ -5403,6 +5497,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5412,7 +5507,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5449,17 +5545,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7215,
+    "edhrec_rank": 7160,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventuring-standard-and-limited-2019-09-13",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.41",
-      "usd_foil": "0.70",
-      "eur": "0.11",
-      "eur_foil": "0.99",
+      "usd": "0.45",
+      "usd_foil": "0.67",
+      "eur": "0.16",
+      "eur_foil": "1.18",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5528,6 +5624,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5537,7 +5634,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5575,18 +5673,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4079,
+    "edhrec_rank": 4069,
     "preview": {
       "source": "Giga",
       "source_uri": "https://www.giga.de/artikel/magic-the-gathering-exklusive-preview-karte-zu-throne-of-eldraine/",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.33",
+      "usd": "0.21",
       "usd_foil": "0.34",
-      "eur": "0.13",
-      "eur_foil": "0.27",
-      "tix": "0.03"
+      "eur": "0.18",
+      "eur_foil": "0.09",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473028",
@@ -5636,6 +5734,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5645,7 +5744,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5683,18 +5783,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 722,
+    "edhrec_rank": 712,
     "preview": {
       "source": "MTGGoldfish",
       "source_uri": "https://www.mtggoldfish.com/articles/mirrormade-exclusive-throne-of-eldraine-preview",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "1.96",
-      "usd_foil": "2.09",
-      "eur": "0.43",
+      "usd": "2.22",
+      "usd_foil": "2.42",
+      "eur": "0.44",
       "eur_foil": "1.48",
-      "tix": "0.02"
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473017",
@@ -5747,6 +5847,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5756,7 +5857,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5793,17 +5895,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1770,
+    "edhrec_rank": 1697,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/wizards_magic/status/1169142807564640257/photo/1",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.48",
-      "usd_foil": "0.97",
-      "eur": "0.24",
-      "eur_foil": "0.75",
+      "usd": "0.58",
+      "usd_foil": "1.04",
+      "eur": "0.21",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -5854,6 +5956,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5863,7 +5966,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -5903,18 +6007,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1677,
+    "edhrec_rank": 1664,
     "preview": {
       "source": "Brad Nelson",
       "source_uri": "https://twitter.com/fffreakmtg/status/1172525989802283009",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "2.69",
-      "usd_foil": "3.22",
-      "eur": "1.41",
-      "eur_foil": "3.99",
-      "tix": "0.13"
+      "usd": "2.59",
+      "usd_foil": "3.17",
+      "eur": "1.15",
+      "eur_foil": "1.80",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473013",
@@ -5966,6 +6070,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -5975,7 +6080,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6016,17 +6122,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2007,
+    "edhrec_rank": 1998,
     "preview": {
       "source": "The Command Zone",
       "source_uri": "https://www.youtube.com/watch?v=RYzy2drIllM&feature=youtu.be",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.80",
-      "usd_foil": "0.94",
-      "eur": "0.72",
-      "eur_foil": "1.17",
+      "usd": "0.67",
+      "usd_foil": "0.99",
+      "eur": "0.58",
+      "eur_foil": "1.20",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6079,6 +6185,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6088,7 +6195,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6125,17 +6233,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1772,
+    "edhrec_rank": 1712,
     "preview": {
       "source": "PCGamesN",
       "source_uri": "https://www.pcgamesn.com/magic-the-gathering-arena/throne-of-eldraine-folio-of-fancies",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.50",
-      "usd_foil": "0.61",
-      "eur": "0.02",
-      "eur_foil": "0.25",
+      "usd": "0.48",
+      "usd_foil": "0.66",
+      "eur": "0.18",
+      "eur_foil": "0.49",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6190,6 +6298,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6199,7 +6308,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "restricted",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6239,18 +6349,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1164,
+    "edhrec_rank": 1131,
     "preview": {
       "source": "NGA",
       "source_uri": "https://bbs.nga.cn/read.php?&tid=18485267&rand=293",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "1.60",
-      "usd_foil": "3.07",
-      "eur": "1.42",
-      "eur_foil": "6.99",
-      "tix": "1.07"
+      "usd": "1.70",
+      "usd_foil": "2.78",
+      "eur": "1.12",
+      "eur_foil": "1.20",
+      "tix": "0.75"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005",
@@ -6320,6 +6430,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6329,7 +6440,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6367,7 +6479,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5352,
+    "edhrec_rank": 5403,
     "preview": {
       "source": "GameSpot",
       "source_uri": "https://www.gamespot.com/articles/new-magic-the-gathering-throne-of-eldraine-cards-p/1100-6469732/",
@@ -6375,9 +6487,9 @@
     },
     "prices": {
       "usd": "0.43",
-      "usd_foil": "0.50",
-      "eur": "0.30",
-      "eur_foil": "0.50",
+      "usd_foil": "0.40",
+      "eur": "0.14",
+      "eur_foil": "0.60",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6432,6 +6544,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6441,7 +6554,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6482,17 +6596,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4879,
+    "edhrec_rank": 4863,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/singing-eldraine-2019-09-16",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.41",
-      "usd_foil": "0.57",
-      "eur": "0.22",
-      "eur_foil": "0.49",
+      "usd": "0.40",
+      "usd_foil": "0.50",
+      "eur": "0.37",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6548,6 +6662,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6557,7 +6672,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6595,18 +6711,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1705,
+    "edhrec_rank": 1617,
     "preview": {
       "source": "LadyLavinias",
       "source_uri": "https://twitter.com/LadyLavinias/status/1174775658695864322",
       "previewed_at": "2019-09-19"
     },
     "prices": {
-      "usd": "1.19",
-      "usd_foil": "1.48",
-      "eur": "0.81",
-      "eur_foil": "0.90",
-      "tix": "0.85"
+      "usd": "1.26",
+      "usd_foil": "1.51",
+      "eur": "0.56",
+      "eur_foil": "1.20",
+      "tix": "0.27"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980",
@@ -6678,6 +6794,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6687,7 +6804,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6725,17 +6843,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5771,
+    "edhrec_rank": 5675,
     "preview": {
       "source": "Jess Estephan",
       "source_uri": "https://twitter.com/jesstephan/status/1171786180666544130?s=20",
       "previewed_at": "2019-09-11"
     },
     "prices": {
-      "usd": "0.51",
-      "usd_foil": "0.78",
-      "eur": "0.33",
-      "eur_foil": "0.90",
+      "usd": "0.59",
+      "usd_foil": "0.76",
+      "eur": "0.37",
+      "eur_foil": "0.50",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6786,6 +6904,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6795,7 +6914,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6832,7 +6952,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": true,
-    "edhrec_rank": 5796,
+    "edhrec_rank": 5857,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/happily-ever-after-2019-09-19",
@@ -6840,9 +6960,9 @@
     },
     "prices": {
       "usd": "0.16",
-      "usd_foil": "0.25",
-      "eur": "0.04",
-      "eur_foil": "0.13",
+      "usd_foil": "0.21",
+      "eur": "0.07",
+      "eur_foil": "0.22",
       "tix": "0.02"
     },
     "related_uris": {
@@ -6911,6 +7031,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -6920,7 +7041,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -6960,17 +7082,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4075,
+    "edhrec_rank": 4110,
     "preview": {
       "source": "ChannelFireball",
       "source_uri": "https://www.facebook.com/channelfireball/videos/366428504287148/",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "1.03",
-      "usd_foil": "1.41",
-      "eur": "1.00",
-      "eur_foil": "0.50",
+      "usd": "1.14",
+      "usd_foil": "1.47",
+      "eur": "0.55",
+      "eur_foil": "1.20",
       "tix": "0.02"
     },
     "related_uris": {
@@ -7025,6 +7147,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7034,7 +7157,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7071,18 +7195,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2307,
+    "edhrec_rank": 2245,
     "preview": {
       "source": "Reid Duke",
       "source_uri": "https://www.twitch.tv/videos/479548512",
       "previewed_at": "2019-09-10"
     },
     "prices": {
-      "usd": "1.74",
-      "usd_foil": "1.85",
-      "eur": "1.25",
-      "eur_foil": "2.57",
-      "tix": "0.73"
+      "usd": "1.66",
+      "usd_foil": "1.68",
+      "eur": "1.14",
+      "eur_foil": "1.80",
+      "tix": "0.66"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970",
@@ -7134,6 +7258,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7143,7 +7268,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7180,7 +7306,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4093,
+    "edhrec_rank": 4102,
     "preview": {
       "source": "Rei Sato",
       "source_uri": "https://www.twitch.tv/videos/482593745",
@@ -7188,10 +7314,10 @@
     },
     "prices": {
       "usd": "0.28",
-      "usd_foil": "0.30",
-      "eur": "0.20",
-      "eur_foil": null,
-      "tix": "0.04"
+      "usd_foil": "0.36",
+      "eur": "0.11",
+      "eur_foil": "0.15",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472963",
@@ -7285,6 +7411,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7294,7 +7421,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7332,7 +7460,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 10278,
+    "edhrec_rank": 10460,
     "preview": {
       "source": "Formação Fireball",
       "source_uri": "https://www.youtube.com/watch?v=rPJLKVyOnIE",
@@ -7340,9 +7468,9 @@
     },
     "prices": {
       "usd": "0.06",
-      "usd_foil": "0.13",
+      "usd_foil": "0.12",
       "eur": "0.02",
-      "eur_foil": "0.13",
+      "eur_foil": "0.05",
       "tix": "0.03"
     },
     "related_uris": {
@@ -7418,6 +7546,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7427,7 +7556,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7465,18 +7595,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 10487,
+    "edhrec_rank": 10523,
     "preview": {
       "source": "Nizzahon Magic",
       "source_uri": "https://www.youtube.com/watch?v=v7HGSn0P1J4",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.03",
+      "usd": "0.02",
       "usd_foil": "0.06",
-      "eur": "0.02",
-      "eur_foil": "0.12",
-      "tix": "0.02"
+      "eur": "0.06",
+      "eur_foil": "0.05",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473142",
@@ -7558,6 +7688,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7567,7 +7698,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7605,18 +7737,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7117,
+    "edhrec_rank": 7113,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169291126970314752",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.03",
+      "usd": "0.02",
       "usd_foil": "0.12",
-      "eur": "0.04",
-      "eur_foil": "0.02",
-      "tix": "0.02"
+      "eur": "0.07",
+      "eur_foil": "0.05",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473136",
@@ -7709,6 +7841,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7718,7 +7851,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7756,18 +7890,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8768,
+    "edhrec_rank": 8790,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169022264182038531",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "0.16",
-      "usd_foil": "0.48",
-      "eur": "0.16",
-      "eur_foil": "0.30",
-      "tix": "0.20"
+      "usd": "0.22",
+      "usd_foil": "0.52",
+      "eur": "0.21",
+      "eur_foil": "0.15",
+      "tix": "0.12"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127",
@@ -7842,6 +7976,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -7851,7 +7986,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -7889,7 +8025,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 13476,
+    "edhrec_rank": 13594,
     "preview": {
       "source": "Eric Froehlich",
       "source_uri": "https://twitter.com/efropoker/status/1174052806459707393?s=21",
@@ -7897,10 +8033,10 @@
     },
     "prices": {
       "usd": "0.01",
-      "usd_foil": "0.06",
-      "eur": "0.01",
-      "eur_foil": "0.03",
-      "tix": "0.02"
+      "usd_foil": "0.12",
+      "eur": "0.02",
+      "eur_foil": "0.10",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473118",
@@ -7993,6 +8129,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8002,7 +8139,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8040,18 +8178,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 6791,
+    "edhrec_rank": 6742,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/wizards_magic/status/1168992065994334208",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "0.07",
-      "usd_foil": "0.17",
-      "eur": "0.05",
-      "eur_foil": "0.15",
-      "tix": "0.02"
+      "usd": "0.08",
+      "usd_foil": "0.15",
+      "eur": "0.07",
+      "eur_foil": "0.10",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473117",
@@ -8144,6 +8282,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8153,7 +8292,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8191,7 +8331,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 11332,
+    "edhrec_rank": 11307,
     "preview": {
       "source": "CNEWS",
       "source_uri": "https://www.cnews.fr/vie-numerique/2019-09-10/magic-gathering-revisite-les-contes-de-fees-avec-le-trone-deldraine-876392",
@@ -8199,9 +8339,9 @@
     },
     "prices": {
       "usd": "0.04",
-      "usd_foil": "0.09",
-      "eur": "0.01",
-      "eur_foil": "0.02",
+      "usd_foil": "0.07",
+      "eur": "0.02",
+      "eur_foil": "0.10",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8276,6 +8416,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8285,7 +8426,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8322,17 +8464,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1518,
+    "edhrec_rank": 1437,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-mechanics-2019-09-04",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.12",
+      "usd": "0.13",
       "usd_foil": "0.32",
-      "eur": "0.09",
-      "eur_foil": "0.17",
+      "eur": "0.07",
+      "eur_foil": "0.10",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8407,6 +8549,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8416,7 +8559,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8453,12 +8597,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8527,
+    "edhrec_rank": 8382,
     "prices": {
-      "usd": "0.04",
-      "usd_foil": "0.20",
-      "eur": "0.04",
-      "eur_foil": "0.10",
+      "usd": "0.05",
+      "usd_foil": "0.18",
+      "eur": "0.13",
+      "eur_foil": "0.74",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8534,6 +8678,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8543,7 +8688,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8581,17 +8727,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5209,
+    "edhrec_rank": 5231,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12",
       "previewed_at": "2019-09-12"
     },
     "prices": {
-      "usd": "0.07",
-      "usd_foil": "0.22",
-      "eur": "0.34",
-      "eur_foil": "0.10",
+      "usd": "0.09",
+      "usd_foil": "0.21",
+      "eur": "0.15",
+      "eur_foil": "0.40",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8667,6 +8813,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8676,7 +8823,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8714,17 +8862,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4512,
+    "edhrec_rank": 4514,
     "preview": {
       "source": "ChannelFireball",
       "source_uri": "https://www.youtube.com/watch?v=lKBtbDYICcU&t=2m21s",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.10",
+      "usd": "0.08",
       "usd_foil": "0.21",
-      "eur": "0.07",
-      "eur_foil": "0.35",
+      "eur": "0.02",
+      "eur_foil": "0.18",
       "tix": "0.03"
     },
     "related_uris": {
@@ -8800,6 +8948,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8809,7 +8958,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8847,18 +8997,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5451,
+    "edhrec_rank": 5285,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventuring-standard-and-limited-2019-09-13",
       "previewed_at": "2019-09-13"
     },
     "prices": {
-      "usd": "0.86",
-      "usd_foil": "1.16",
-      "eur": "0.74",
-      "eur_foil": "3.74",
-      "tix": "5.70"
+      "usd": "0.98",
+      "usd_foil": "1.38",
+      "eur": "0.84",
+      "eur_foil": "2.54",
+      "tix": "4.98"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077",
@@ -8935,6 +9085,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -8944,7 +9095,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -8982,17 +9134,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4584,
+    "edhrec_rank": 4600,
     "preview": {
       "source": "IGN",
       "source_uri": "https://uk.ign.com/articles/2019/09/04/magic-the-gathering-throne-of-eldraine-4-new-cards-revealed-ser-konrad-the-grim-order-of-midnight-smitten-swordmaster-foulmire-knight",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.04",
-      "usd_foil": "0.16",
-      "eur": "0.10",
-      "eur_foil": "0.10",
+      "usd": "0.02",
+      "usd_foil": "0.14",
+      "eur": "0.02",
+      "eur_foil": "0.22",
       "tix": "0.03"
     },
     "related_uris": {
@@ -9067,6 +9219,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9076,7 +9229,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9113,13 +9267,13 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 11568,
+    "edhrec_rank": 11636,
     "prices": {
-      "usd": "0.05",
-      "usd_foil": "0.11",
-      "eur": "0.05",
-      "eur_foil": "0.35",
-      "tix": "0.02"
+      "usd": "0.04",
+      "usd_foil": "0.10",
+      "eur": "0.02",
+      "eur_foil": "0.10",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473064",
@@ -9195,6 +9349,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9204,7 +9359,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9241,17 +9397,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3896,
+    "edhrec_rank": 3871,
     "preview": {
       "source": "IGN",
       "source_uri": "https://uk.ign.com/articles/2019/09/04/magic-the-gathering-throne-of-eldraine-4-new-cards-revealed-ser-konrad-the-grim-order-of-midnight-smitten-swordmaster-foulmire-knight",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.05",
+      "usd": "0.06",
       "usd_foil": "0.23",
       "eur": "0.12",
-      "eur_foil": "0.13",
+      "eur_foil": "0.10",
       "tix": "0.03"
     },
     "related_uris": {
@@ -9328,6 +9484,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9337,7 +9494,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9374,18 +9532,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1022,
+    "edhrec_rank": 984,
     "preview": {
       "source": "Star City Games",
       "source_uri": "https://twitter.com/StarCityGames/status/1171077240102313988",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "1.31",
-      "usd_foil": "1.60",
-      "eur": "1.77",
-      "eur_foil": "3.00",
-      "tix": "2.12"
+      "usd": "1.12",
+      "usd_foil": "1.65",
+      "eur": "1.19",
+      "eur_foil": "2.94",
+      "tix": "0.91"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059",
@@ -9461,6 +9619,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9470,7 +9629,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9507,7 +9667,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4103,
+    "edhrec_rank": 4058,
     "preview": {
       "source": "IGN",
       "source_uri": "https://uk.ign.com/articles/2019/09/04/magic-the-gathering-throne-of-eldraine-4-new-cards-revealed-ser-konrad-the-grim-order-of-midnight-smitten-swordmaster-foulmire-knight",
@@ -9516,9 +9676,9 @@
     "prices": {
       "usd": "0.10",
       "usd_foil": "0.27",
-      "eur": "0.11",
-      "eur_foil": "0.48",
-      "tix": "0.03"
+      "eur": "0.17",
+      "eur_foil": "0.30",
+      "tix": "0.04"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473052",
@@ -9592,6 +9752,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9601,7 +9762,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9638,13 +9800,13 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9751,
+    "edhrec_rank": 9825,
     "prices": {
-      "usd": "0.04",
+      "usd": "0.02",
       "usd_foil": "0.11",
-      "eur": "0.02",
-      "eur_foil": "0.05",
-      "tix": "0.02"
+      "eur": "0.01",
+      "eur_foil": "0.48",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473023",
@@ -9721,6 +9883,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9730,7 +9893,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9768,11 +9932,11 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 6984,
+    "edhrec_rank": 6962,
     "prices": {
-      "usd": "0.12",
-      "usd_foil": "0.22",
-      "eur": "0.02",
+      "usd": "0.11",
+      "usd_foil": "0.21",
+      "eur": "0.08",
       "eur_foil": "0.30",
       "tix": "0.03"
     },
@@ -9850,6 +10014,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9859,7 +10024,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -9896,7 +10062,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5594,
+    "edhrec_rank": 5596,
     "preview": {
       "source": "Star City Games",
       "source_uri": "http://www.starcitygames.com/articles/39065_How-To-Approach-Hypnotic-Sprite-In-Throne-Of-Eldraine-Standard.html",
@@ -9904,10 +10070,10 @@
     },
     "prices": {
       "usd": "0.11",
-      "usd_foil": "0.15",
-      "eur": "0.02",
-      "eur_foil": "0.25",
-      "tix": "0.02"
+      "usd_foil": "0.14",
+      "eur": "0.10",
+      "eur_foil": "0.02",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473011",
@@ -9983,6 +10149,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -9992,7 +10159,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10029,18 +10197,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 9233,
+    "edhrec_rank": 9325,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.13",
-      "usd_foil": "0.56",
-      "eur": "0.17",
-      "eur_foil": "0.60",
-      "tix": "0.06"
+      "usd": "0.18",
+      "usd_foil": "0.54",
+      "eur": "0.20",
+      "eur_foil": "0.49",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473006",
@@ -10117,6 +10285,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10126,7 +10295,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10163,18 +10333,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3455,
+    "edhrec_rank": 3321,
     "preview": {
       "source": "/r/MagicArena",
       "source_uri": "https://www.reddit.com/r/MagicArena/comments/d60peu/eld_brazen_borrower_official_rmagicarena_spoiler/",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "11.00",
-      "usd_foil": "18.09",
-      "eur": "13.27",
-      "eur_foil": "15.00",
-      "tix": "12.29"
+      "usd": "9.31",
+      "usd_foil": "13.78",
+      "eur": "10.69",
+      "eur_foil": "18.99",
+      "tix": "15.98"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001",
@@ -10251,6 +10421,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10260,7 +10431,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10298,18 +10470,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7983,
+    "edhrec_rank": 8196,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169291126970314752",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.07",
+      "usd": "0.05",
       "usd_foil": "0.15",
-      "eur": "0.06",
-      "eur_foil": "0.07",
-      "tix": "0.02"
+      "eur": "0.03",
+      "eur_foil": "0.12",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473000",
@@ -10384,6 +10556,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10393,7 +10566,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10431,7 +10605,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 11946,
+    "edhrec_rank": 12004,
     "preview": {
       "source": "Nizzahon Magic",
       "source_uri": "https://www.youtube.com/watch?v=v7HGSn0P1J4",
@@ -10439,10 +10613,10 @@
     },
     "prices": {
       "usd": "0.02",
-      "usd_foil": "0.04",
-      "eur": "0.10",
-      "eur_foil": "0.04",
-      "tix": "0.02"
+      "usd_foil": "0.03",
+      "eur": "0.24",
+      "eur_foil": "0.10",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472993",
@@ -10517,6 +10691,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10526,7 +10701,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10564,17 +10740,17 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 8193,
+    "edhrec_rank": 8171,
     "preview": {
       "source": "Eric Froehlich",
       "source_uri": "https://twitter.com/efropoker/status/1174065513636474880",
       "previewed_at": "2019-09-18"
     },
     "prices": {
-      "usd": "0.06",
+      "usd": "0.08",
       "usd_foil": "0.15",
-      "eur": "0.02",
-      "eur_foil": "0.05",
+      "eur": "0.12",
+      "eur_foil": "0.15",
       "tix": "0.03"
     },
     "related_uris": {
@@ -10651,6 +10827,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10660,7 +10837,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10697,18 +10875,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4787,
+    "edhrec_rank": 4623,
     "preview": {
       "source": "Tolarian Community College",
       "source_uri": "https://www.youtube.com/watch?v=d4Zm4JzNiVs",
       "previewed_at": "2019-09-17"
     },
     "prices": {
-      "usd": "0.70",
-      "usd_foil": "0.90",
-      "eur": "0.75",
-      "eur_foil": "0.98",
-      "tix": "0.06"
+      "usd": "1.02",
+      "usd_foil": "0.97",
+      "eur": "1.08",
+      "eur_foil": "0.95",
+      "tix": "0.10"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988",
@@ -10802,6 +10980,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10811,7 +10990,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10848,18 +11028,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 11599,
+    "edhrec_rank": 11580,
     "preview": {
       "source": "Nizzahon Magic",
       "source_uri": "https://www.youtube.com/watch?v=v7HGSn0P1J4",
       "previewed_at": "2019-09-16"
     },
     "prices": {
-      "usd": "0.04",
-      "usd_foil": "0.14",
-      "eur": "0.02",
-      "eur_foil": "0.19",
-      "tix": "0.02"
+      "usd": "0.05",
+      "usd_foil": "0.13",
+      "eur": "0.24",
+      "eur_foil": "0.09",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472983",
@@ -10934,6 +11114,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -10943,7 +11124,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -10981,18 +11163,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 5299,
+    "edhrec_rank": 5180,
     "preview": {
       "source": "Amaz",
       "source_uri": "https://twitter.com/Amaz/status/1171122126486757381",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.23",
-      "usd_foil": "0.31",
-      "eur": "0.23",
-      "eur_foil": "0.50",
-      "tix": "0.03"
+      "usd": "0.25",
+      "usd_foil": "0.30",
+      "eur": "0.25",
+      "eur_foil": "0.90",
+      "tix": "0.02"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976",
@@ -11069,6 +11251,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11078,7 +11261,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11116,18 +11300,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7984,
+    "edhrec_rank": 8064,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/making-magic/eldraine-or-shine-2019-09-09",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "0.05",
-      "usd_foil": "0.15",
-      "eur": "0.10",
-      "eur_foil": "0.10",
-      "tix": "0.02"
+      "usd": "0.04",
+      "usd_foil": "0.12",
+      "eur": "0.20",
+      "eur_foil": "0.04",
+      "tix": "0.03"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472973",
@@ -11204,6 +11388,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11213,7 +11398,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11251,7 +11437,7 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 7882,
+    "edhrec_rank": 7950,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/adventure-adventure-2019-09-12",
@@ -11259,9 +11445,9 @@
     },
     "prices": {
       "usd": "0.04",
-      "usd_foil": "0.18",
-      "eur": "0.02",
-      "eur_foil": "0.05",
+      "usd_foil": "0.14",
+      "eur": "0.14",
+      "eur_foil": "0.25",
       "tix": "0.03"
     },
     "related_uris": {
@@ -11315,6 +11501,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11324,7 +11511,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11361,18 +11549,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 3684,
+    "edhrec_rank": 3692,
     "preview": {
       "source": "RiotPixels",
       "source_uri": "http://riotpixels.com/magicheskij-vestnik-vypusk-s-eksklyuzivami/",
       "previewed_at": "2019-09-09"
     },
     "prices": {
-      "usd": "3.13",
-      "usd_foil": "4.20",
-      "eur": "4.16",
-      "eur_foil": "5.99",
-      "tix": "0.78"
+      "usd": "2.89",
+      "usd_foil": "3.93",
+      "eur": "3.50",
+      "eur_foil": "5.58",
+      "tix": "0.83"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473161",
@@ -11400,12 +11588,12 @@
     "layout": "normal",
     "highres_image": true,
     "image_uris": {
-      "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
-      "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
-      "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
-      "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.png?1578911629",
-      "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629",
-      "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1578911629"
+      "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
+      "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
+      "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
+      "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.png?1610070177",
+      "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177",
+      "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1610070177"
     },
     "mana_cost": "{1}{G}{U}",
     "cmc": 3,
@@ -11443,6 +11631,7 @@
       "standard": "banned",
       "future": "banned",
       "historic": "banned",
+      "gladiator": "banned",
       "pioneer": "banned",
       "modern": "banned",
       "legacy": "legal",
@@ -11452,7 +11641,8 @@
       "commander": "legal",
       "brawl": "banned",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11489,18 +11679,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 1034,
+    "edhrec_rank": 991,
     "preview": {
       "source": "Card Kingdom",
       "source_uri": "https://twitter.com/Card_Kingdom/status/1168967403805511680",
       "previewed_at": "2019-09-03"
     },
     "prices": {
-      "usd": "16.04",
-      "usd_foil": "26.77",
-      "eur": "19.17",
-      "eur_foil": "32.85",
-      "tix": "23.94"
+      "usd": "21.34",
+      "usd_foil": "29.15",
+      "eur": "21.35",
+      "eur_foil": "28.99",
+      "tix": "18.98"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159",
@@ -11579,6 +11769,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11588,7 +11779,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11625,18 +11817,18 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 2482,
+    "edhrec_rank": 2454,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://twitter.com/MTG_Arena/status/1169264113412972544",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "2.54",
-      "usd_foil": "3.27",
-      "eur": "1.50",
-      "eur_foil": "4.07",
-      "tix": "0.31"
+      "usd": "2.77",
+      "usd_foil": "2.75",
+      "eur": "2.83",
+      "eur_foil": "4.30",
+      "tix": "0.12"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473153",
@@ -11689,6 +11881,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11698,7 +11891,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11746,9 +11940,9 @@
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.58",
+      "usd": "0.50",
       "usd_foil": null,
-      "eur": "0.24",
+      "eur": "0.50",
       "eur_foil": null,
       "tix": null
     },
@@ -11796,6 +11990,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11805,7 +12000,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11845,18 +12041,18 @@
     "promo_types": [
       "brawldeck"
     ],
-    "edhrec_rank": 2163,
+    "edhrec_rank": 2058,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/inside-throne-eldraine-brawl-decks-2019-09-04",
       "previewed_at": "2019-09-04"
     },
     "prices": {
-      "usd": "0.93",
+      "usd": "1.29",
       "usd_foil": null,
-      "eur": "0.99",
+      "eur": "1.56",
       "eur_foil": null,
-      "tix": "2.26"
+      "tix": "2.97"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476050",
@@ -11909,6 +12105,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -11918,7 +12115,8 @@
       "commander": "legal",
       "brawl": "legal",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -11959,18 +12157,18 @@
     "promo_types": [
       "brawldeck"
     ],
-    "edhrec_rank": 12,
+    "edhrec_rank": 10,
     "preview": {
       "source": "Wizards of the Coast",
       "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/new-era-brawl-2019-07-22",
       "previewed_at": "2019-07-22"
     },
     "prices": {
-      "usd": "2.63",
+      "usd": "2.66",
       "usd_foil": null,
-      "eur": "1.82",
+      "eur": "1.95",
       "eur_foil": null,
-      "tix": "3.40"
+      "tix": "1.47"
     },
     "related_uris": {
       "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476049",
@@ -12017,6 +12215,7 @@
       "standard": "legal",
       "future": "legal",
       "historic": "legal",
+      "gladiator": "legal",
       "pioneer": "legal",
       "modern": "legal",
       "legacy": "legal",
@@ -12026,7 +12225,8 @@
       "commander": "legal",
       "brawl": "banned",
       "duel": "legal",
-      "oldschool": "not_legal"
+      "oldschool": "not_legal",
+      "premodern": "not_legal"
     },
     "games": [
       "arena",
@@ -12063,12 +12263,12 @@
     "textless": false,
     "booster": true,
     "story_spotlight": false,
-    "edhrec_rank": 4791,
+    "edhrec_rank": 4901,
     "prices": {
-      "usd": "0.27",
-      "usd_foil": "1.56",
-      "eur": "0.35",
-      "eur_foil": "1.95",
+      "usd": "0.26",
+      "usd_foil": "1.28",
+      "eur": "0.50",
+      "eur_foil": "1.44",
       "tix": "0.02"
     },
     "related_uris": {

@@ -73,6 +73,7 @@ function initializeCatalog() {
   catalog.imagedict = {};
   catalog.cardimages = {};
   catalog.oracleToId = {};
+  catalog.mtgoToId = {};
   catalog.english = {};
   catalog.elodict = {};
   catalog.embeddingdict = {};
@@ -139,6 +140,10 @@ function addCardToCatalog(card, isExtra) {
     catalog.oracleToId[card.oracle_id] = [];
   }
   catalog.oracleToId[card.oracle_id].push(card._id);
+  if (!catalog.mtgoToId[card.mtgo_id]) {
+    catalog.mtgoToId[card.mtgo_id] = [];
+  }
+  catalog.mtgoToId[card.mtgo_id].push(card._id);
   util.binaryInsert(normalizedName, catalog.names);
   util.binaryInsert(normalizedFullName, catalog.full_names);
 }
@@ -707,6 +712,7 @@ function writeCatalog(basePath = 'private') {
   pendingWrites.push(writeFile(path.join(basePath, 'carddict.json'), JSON.stringify(catalog.dict)));
   pendingWrites.push(writeFile(path.join(basePath, 'nameToId.json'), JSON.stringify(catalog.nameToId)));
   pendingWrites.push(writeFile(path.join(basePath, 'oracleToId.json'), JSON.stringify(catalog.oracleToId)));
+  pendingWrites.push(writeFile(path.join(basePath, 'mtgoToId.json'), JSON.stringify(catalog.mtgoToId)));
   pendingWrites.push(writeFile(path.join(basePath, 'english.json'), JSON.stringify(catalog.english)));
   pendingWrites.push(
     writeFile(path.join(basePath, 'full_names.json'), JSON.stringify(util.turnToTree(catalog.full_names))),
